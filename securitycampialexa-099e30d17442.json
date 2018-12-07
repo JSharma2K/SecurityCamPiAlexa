@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "securitycampialexa",
+  "private_key_id": "099e30d1744287a874319e7130ef7bd342179c5c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzuNaxhWJA+5Rs\ne8JXpTwSNfhFHCa1cd8sH/bP5xBw785+7mt8IzIlTZOA86F/mt0lspq6P2/Bw81R\nnfeU+D3XxaIRCZUHQBSChsW/zvVx867R46A9yiapcC2EwsT39snwito2sqPeDlse\nS2Hx57PT6CIfBty7D7ZRlp8eVE7stSJ+fU4I7vP9dFyn6x+nA7UMlYjhMdIFUVoX\nb0hvF6T6ti6KngxHahQ+7s01R44BkKtn0hDrRi74sAQA2mLAjB6tnN2W9mbw+d1Y\nnXNQeB4QXY4LXXf88HxRNd4BEt66dcuTeaG9vWYm+Ckt80hpByX8XsZtbiZKYi3p\nYPivibrLAgMBAAECggEAFrf0Z89pKrbCve3tFMA99j1dS3syB3jEEeNeg0x9vxEJ\nZPFFpBUc5ytFzKS/kw5kCzpnJckUGwXh5AHYhLvWsXp5sLap4JdAoHlh8Qu76jI4\nNK8WGAmAVqXoEyK93GyVfXNH/2cYoN7mtM8pq/cyu8RZ39sxtvHXBbxJE//rVC+h\nIboHGgNU9nE1njt5ZoDH0FeyZXLZImAwV2Xk/h+rqLsXodOFQqp7iYIC7YNrMnMy\nsOFIloeT4KYgePqkpwYZW5Bsm1xsEvM+GDe+AV/GWpRLf4RaIsIVd3a6BOTvDEtv\nzB0hs1ybcKg8Boy7AvKoXzVgGWEqOXYDMndnwADsnQKBgQDqYwYWTnhnNVr8LWpA\n7kpzgzC6M2pVxh8PsWLSmMGVhkBbU7i3j9TaEG0yKqZ8zu6KcZrDR0M+HxBMdw2/\nGVEJ/MdPkcwjm32RjCDxyspioq1vO8NHy+zTBpVH3crCz+a7UmTXvbErDiupjfUv\npcRnIgQn7m1S2bOxqwMaqsdAZQKBgQDES2NqV9QyR4OwryAFnH1r9cdrtq/IGiLV\nV7f+3hZZW5+biIA4TD2R8OdJocFx7BbiVpzcVQnlfKhpbrn4kHLsOIMa+2o2/i4h\nY2WV/ZTlZYp6/qNsRnPu9N7uECfF2YRyNYbCCxnRaDGZ6brmgxbjErmxNttDMKWw\nZ8FojQsjbwKBgGmuyJnaO/PdXO8D0zr/ttYquxfaAwI12N+MjhCDDBZNeEs1jr5F\nviWs7m+GR5dS/r+xxaRzR2CFRSYVMD+QPLgSIBRCmxcbDx1HX7tmQqcCzsyu17hR\nvLDR8RF8ceYxM8oWtp2ITJArTYigF4OqbMpLzi/rE6QdwSZFA5tMkZb5AoGBAIZO\ncrorV/QC/HbijA1q0mIQ656mg8VtJJJGj40iFbaUOzOnBNwARkxZwVafB4XUHKBG\n1NLomHndfjmNWk9ZPlikHghTJ4xzA8sygCpNNBh1DngzTEvkNKS2BOZsRVpZBwdB\n2m9gOw0Ntopx4sCfxwQdJtK7DvD9ExENHMdVYd6fAoGAPws9iagcf1Sg8h1QDX78\nwtqHgxpL/xXSBIfzSy3Q3aUh6TnzhOMVVy/mHTkKV3LQChdDYlyqpk0D5hlp5CLb\ng5qNTRCWL9JF+TsWhdF9hX9jKwTXK8sSOB74zkMYNuhd+70nXxx6G22NFdKks9LZ\no3wiIpec7HhQtelfx5eMIh8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "securitycampialexa@securitycampialexa.iam.gserviceaccount.com",
+  "client_id": "113601622261676591561",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/securitycampialexa%40securitycampialexa.iam.gserviceaccount.com"
+}
